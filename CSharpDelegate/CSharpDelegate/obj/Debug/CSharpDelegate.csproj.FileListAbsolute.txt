@@ -1,0 +1,6 @@
+c:\visual studio 2013\Projects\CSharpDelegate\CSharpDelegate\bin\Debug\CSharpDelegate.exe.config
+c:\visual studio 2013\Projects\CSharpDelegate\CSharpDelegate\bin\Debug\CSharpDelegate.exe
+c:\visual studio 2013\Projects\CSharpDelegate\CSharpDelegate\bin\Debug\CSharpDelegate.pdb
+c:\visual studio 2013\Projects\CSharpDelegate\CSharpDelegate\obj\Debug\CSharpDelegate.csprojResolveAssemblyReference.cache
+c:\visual studio 2013\Projects\CSharpDelegate\CSharpDelegate\obj\Debug\CSharpDelegate.exe
+c:\visual studio 2013\Projects\CSharpDelegate\CSharpDelegate\obj\Debug\CSharpDelegate.pdb
